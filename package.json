@@ -1,0 +1,34 @@
+{
+  "name": "toy-vite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "bin": {
+    "vds": "bin/vd.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YOYZHANG/toy-vite.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YOYZHANG/toy-vite/issues"
+  },
+  "homepage": "https://github.com/YOYZHANG/toy-vite#readme",
+  "dependencies": {
+    "chokidar": "^3.5.2",
+    "fs": "0.0.1-security",
+    "http": "0.0.1-security",
+    "path": "^0.12.7",
+    "serve-handler": "^6.1.3",
+    "url": "^0.11.0",
+    "ws": "^8.0.0"
+  }
+}
