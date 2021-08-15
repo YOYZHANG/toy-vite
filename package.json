@@ -51,7 +51,11 @@
   "homepage": "https://github.com/YOYZHANG/toy-vite#readme",
   "dependencies": {
     "@babel/parser": "^7.15.3",
+    "@types/es-module-lexer": "^0.4.1",
+    "@types/serve-handler": "^6.1.1",
+    "@types/ws": "^7.4.7",
     "chokidar": "^3.5.2",
+    "es-module-lexer": "^0.7.1",
     "fs": "0.0.1-security",
     "http": "0.0.1-security",
     "koa": "^2.13.1",
