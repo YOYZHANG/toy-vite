@@ -17,3 +17,8 @@ webpack 和 vite ?
 ## 目标：
 迁移项目到vite吧！
 https://zhuanlan.zhihu.com/p/391077878
+
+
+## learn tips
+1. es-module-lexer 代替 babel/parser 性能更佳
+2. 
