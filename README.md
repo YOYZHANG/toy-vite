@@ -21,4 +21,6 @@ https://zhuanlan.zhihu.com/p/391077878
 
 ## learn tips
 1. es-module-lexer 代替 babel/parser 性能更佳
-2. 
+2. about sFC: https://www.wkao.top/post/8d8914f9964874ae658642580b508059
+3. 关于时间戳以及vue-loader __VUE_HMR_RUNTIME__ 的使用存疑🤨
+
